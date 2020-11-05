@@ -6,6 +6,7 @@ needs to be flashing with ON time 750 ms and OFF time 350 ms. The LED 2 needs to
 flashing with ON time 400 and OFF time 600 ms.
 
 **Step 2 - Video**
+
 <details>
 <summary>"Click to expand"</summary>
 
@@ -24,4 +25,11 @@ Youtube link here --> https://www.youtube.com/embed/vuI3QX1D5l4
 
 **Step 4 - Coding**
 
-Please refer file named Example 7.ino and use Arduino IDE to compile and run the program.  
+<details>
+<summary>"Click to expand"</summary>
+  
+![Ex7Cod1](https://user-images.githubusercontent.com/56385955/98255464-655d7800-1fb8-11eb-998b-8cd931f58f7b.PNG)
+  
+![Ex7Cod2](https://user-images.githubusercontent.com/56385955/98255531-73ab9400-1fb8-11eb-9d95-602da2754208.PNG)
+
+</details>
