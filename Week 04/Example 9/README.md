@@ -7,7 +7,7 @@ the following on and off times.
 <p align = "centre">
 <img src="https://user-images.githubusercontent.com/56385955/98259941-b15eeb80-1fbd-11eb-8e71-59b532139662.PNG" width = "600" height = "400" /> 
 
-**Step 2 - Video**
+**Step 2 - Video**  </br>
 
 <details>
 <summary>"Click to expand"</summary>
