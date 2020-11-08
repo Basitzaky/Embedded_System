@@ -1,5 +1,5 @@
 # Example 7
-**Step 1 - Introduction**
+**Step 1 - Introduction** </br>
 
 There are two LEDs whose anodes are connected to PB0 and PB1 respectively. The LED 1
 needs to be flashing with ON time 750 ms and OFF time 350 ms. The LED 2 needs to be
