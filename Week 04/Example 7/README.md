@@ -15,7 +15,7 @@ Youtube link here --> https://www.youtube.com/embed/vuI3QX1D5l4
 [![Example 7](https://img.youtube.com/vi/vuI3QX1D5l4/0.jpg)](https://www.youtube.com/watch?v=vuI3QX1D5l4)
 </details>
 
-**Step 3 - Circuit Diagram**
+**Step 3 - Circuit Diagram** <br/>
 
 <details>
 <summary>"Click to expand"</summary>
@@ -25,7 +25,7 @@ Youtube link here --> https://www.youtube.com/embed/vuI3QX1D5l4
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Frtizing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Actual &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </details>
 
-**Step 4 - Coding**
+**Step 4 - Coding**  
 
 <details>
 <summary>"Click to expand"</summary>
