@@ -8,7 +8,7 @@ microcontroller needs to send out the information (of how many times
 each button has been pressed) through the serial port. Program the
 microcontroller to accomplish this.
 
-**Step 2 - Video** 
+**Step 2 - Video** </br>
 
 <details>
 <summary>"Click to expand"</summary>
