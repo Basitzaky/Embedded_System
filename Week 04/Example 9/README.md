@@ -17,7 +17,7 @@ Youtube link here --> https://youtu.be/u2LJWC7dR1g
 [![Example 8](https://img.youtube.com/vi/u2LJWC7dR1g/0.jpg)](https://www.youtube.com/watch?v=u2LJWC7dR1g)
 </details>
 
-**Step 3 - Circuit Diagram**
+**Step 3 - Circuit Diagram**  <br/>
 
 <details>
 <summary>"Click to expand"</summary>
