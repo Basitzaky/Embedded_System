@@ -1,5 +1,5 @@
 # Example 8
-**Step 1 - Introduction**
+**Step 1 - Introduction** <br/>
 
 Five switches (A,B, C, D, and E) are connected to ATmega328p as shown
 below. The microcontroller needs to keep track of how many times each
@@ -8,7 +8,7 @@ microcontroller needs to send out the information (of how many times
 each button has been pressed) through the serial port. Program the
 microcontroller to accomplish this.
 
-**Step 2 - Video**
+**Step 2 - Video** 
 
 <details>
 <summary>"Click to expand"</summary>
