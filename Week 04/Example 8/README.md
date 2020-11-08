@@ -8,17 +8,17 @@ microcontroller needs to send out the information (of how many times
 each button has been pressed) through the serial port. Program the
 microcontroller to accomplish this.
 
-**Step 2 - Video** </br>
+**Step 2 - Video** <br/>
 
 <details>
-<summary>"Click to expand"</summary>
+<summary>"Click to expand"</summary> 
 
 Youtube link here --> https://youtu.be/F4Sa5_ineiI
 
 [![Example 8](https://img.youtube.com/vi/F4Sa5_ineiI/0.jpg)](https://www.youtube.com/watch?v=F4Sa5_ineiI)
 </details>
 
-**Step 3 - Circuit Diagram**
+**Step 3 - Circuit Diagram** </br>
 
 <details>
 <summary>"Click to expand"</summary>
@@ -28,7 +28,7 @@ Youtube link here --> https://youtu.be/F4Sa5_ineiI
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Frtizing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Actual &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </details>
 
-**Step 4 - Coding**
+**Step 4 - Coding** </br>
 
 <details>
 <summary>"Click to expand"</summary>
