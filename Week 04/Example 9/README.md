@@ -5,7 +5,7 @@ Write a program for ATmega328p that blinks 8 LEDs (on PD0 to PD7) with
 the following on and off times.
 
 <p align = "centre">
-<img src="https://user-images.githubusercontent.com/56385955/98259941-b15eeb80-1fbd-11eb-8e71-59b532139662.PNG" width = "600" height = "400" /> 
+  <img src="https://user-images.githubusercontent.com/56385955/98259941-b15eeb80-1fbd-11eb-8e71-59b532139662.PNG" width = "600" height = "400" /> 
 
 **Step 2 - Video**  </br>
 
@@ -27,7 +27,7 @@ Youtube link here --> https://youtu.be/u2LJWC7dR1g
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Frtizing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Actual &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </details>
 
-**Step 4 - Coding**
+**Step 4 - Coding**  <br/>
 
 <details>
 <summary>"Click to expand"</summary>
