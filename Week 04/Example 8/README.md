@@ -14,6 +14,7 @@ microcontroller to accomplish this.
 <summary>"Click to expand"</summary> 
 </br>
 Youtube link here --> https://youtu.be/F4Sa5_ineiI </br>
+</br>
 
 [![Example 8](https://img.youtube.com/vi/F4Sa5_ineiI/0.jpg)](https://www.youtube.com/watch?v=F4Sa5_ineiI)
 </details>
@@ -33,8 +34,9 @@ Youtube link here --> https://youtu.be/F4Sa5_ineiI </br>
 <details>
 <summary>"Click to expand"</summary>
 </br>
-You can look at the code here --> <a href="https://github.com/Basitzaky/Embedded_System/blob/main/Week%2004/Example%207/Example_7.ino">Arduino Code</a> </br>
-  
+You can look at the code here --> <a href="https://github.com/Basitzaky/Embedded_System/blob/main/Week%2004/Example%208/Example_8.ino">Arduino Code</a> </br>
+</br>
+
 ![Ex8Cod1](https://user-images.githubusercontent.com/56385955/98258701-27625300-1fbc-11eb-925f-b705a5d711ff.PNG)
 
 ![Ex8Cod2](https://user-images.githubusercontent.com/56385955/98258707-28938000-1fbc-11eb-9526-d39529b71464.PNG)
