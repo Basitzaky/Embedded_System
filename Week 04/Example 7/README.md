@@ -30,7 +30,7 @@ Youtube link here --> https://www.youtube.com/embed/vuI3QX1D5l4
 <details>
 <summary>"Click to expand"</summary>
   
-You can look at the code here --> <a href="https://github.com/Basitzaky/Embedded_System/blob/main/Week%2004/Example%207/Example_7.ino">link text</a>
+You can look at the code here --> <a href="https://github.com/Basitzaky/Embedded_System/blob/main/Week%2004/Example%207/Example_7.ino">Arduino Code</a>
   
 ![Ex7Cod1](https://user-images.githubusercontent.com/56385955/98255464-655d7800-1fb8-11eb-998b-8cd931f58f7b.PNG)
   
