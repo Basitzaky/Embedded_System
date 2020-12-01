@@ -2,7 +2,7 @@
 
 **Step 1 - Introduction** </br>
 
-Write a program that continuously prints out the analog value of PC3 through the serial port.
+Write a program to show the application of the Pulse Width Modulator (PWM) pin.
 
 **Step 2 - Video** </br>
 
