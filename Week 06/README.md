@@ -20,7 +20,7 @@ Youtube link here --> https://www.youtube.com/embed/Oo4tHA2HMq4 </br>
 <details>
 <summary>"Click to expand"</summary>
 <p align = "centre">
-  <img src="https://github.com/Basitzaky/Embedded_System/blob/main/Week%2005/Example%202/Week%205.PNG" width = "473" height = "400" />   <img src="https://github.com/Basitzaky/Embedded_System/blob/main/Week%2005/Example%202/Example%202.jpg" width = "473" height = "400" />
+  <img src="https://github.com/Basitzaky/Embedded_System/blob/main/Week%2005/Example%202/Week%205.PNG" width = "500" height = "400" />   <img src="https://github.com/Basitzaky/Embedded_System/blob/main/Week%2005/Example%202/Example%202.jpg" width = "446" height = "400" />
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Frtizing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Actual &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </details>
