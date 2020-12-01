@@ -30,10 +30,10 @@ Youtube link here --> https://www.youtube.com/embed/Oo4tHA2HMq4 </br>
 <details>
 <summary>"Click to expand"</summary>
 </br>  
-You can look at the code here --> <a href="https://github.com/Basitzaky/Embedded_System/blob/main/Week%2005/Example%202/Example_2.ino">Arduino Code</a> </br>
+You can look at the code here --> <a href="https://github.com/Basitzaky/Embedded_System/blob/main/Week%2006/PWM.ino">Arduino Code</a> </br>
 </br>
 
-![Example 2 code](https://user-images.githubusercontent.com/56385955/99151808-920c4080-26d8-11eb-943b-262a6198d874.PNG)
+![PWM](https://user-images.githubusercontent.com/56385955/100682927-32898280-33b2-11eb-84ff-daeb1c403b50.PNG)
 
 </details>
 
