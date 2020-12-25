@@ -12,7 +12,7 @@ Write a program to show the application of the non-volatile memory(EEPROM) in th
 Youtube link here --> https://www.youtube.com/embed/N7RrVBEnAZA </br>
 </br>
 
-[![Example 7](https://img.youtube.com/vi/N7RrVBEnAZA/0.jpg)](https://www.youtube.com/watch?v=N7RrVBEnAZA)
+[![Example 7](https://img.youtube.com/vi/N7RrVBEnAZA.jpg)](https://www.youtube.com/watch?v=N7RrVBEnAZA)
 </details>
 
 **Step 3 - Circuit Diagram** <br/>
