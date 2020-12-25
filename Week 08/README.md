@@ -1,1 +1,1 @@
-# Will be added soon
+# Non-Volatile Memory (EEPROM)
