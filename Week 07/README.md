@@ -1,4 +1,4 @@
-# Week 7 Interrupt 
+# Interrupt 
 
 **Step 1 - Introduction** </br>
 
