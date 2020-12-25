@@ -1,4 +1,4 @@
-# Input Output
+# Digital Input Output
 
 ## Example 1
 
