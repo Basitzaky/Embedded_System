@@ -4,7 +4,13 @@ This is the editted project from https://create.arduino.cc/projecthub/helloanime
 ## Video  </br>
 
 Youtube link here --> https://www.youtube.com/embed/FxQYougPaOA </br>   
-[![Assignment 2](https://img.youtube.com/vi/FxQYougPaOA/0.jpg)](https://www.youtube.com/watch?v=FxQYougPaOA)
+[![Assignment 2](https://img.youtube.com/vi/FxQYougPaOA/0.jpg)](https://www.youtube.com/watch?v=FxQYougPaOA)  </br>
+
+## Circuit Diagram
+
+ <img src="https://github.com/Basitzaky/Embedded_System/blob/main/Assignment%202/Ass%202.PNG" />   
+  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Frtizing
 
 ## Code  </br>
 
